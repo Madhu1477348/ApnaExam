@@ -1,0 +1,7 @@
+.input-group-text {
+    border-radius: 15px 0px 0px 15px !important;
+}
+.input-group input{
+    border-radius: 0px 15px 15px 0px !important;
+}
+
